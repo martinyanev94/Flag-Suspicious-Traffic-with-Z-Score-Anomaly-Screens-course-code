@@ -1,0 +1,2 @@
+# Flag-Suspicious-Traffic-with-Z-Score-Anomaly-Screens-course-code
+Learn how to flag suspicious traffic with z-score anomaly screens on intrusion-style network signals in Python. This eight-minute instructor-led micro-course orients you to high-stakes security ML constraints, then teaches one practical skill: building a univariate z-score screen you can trust as an investigate signal. You will work with the wrong_
